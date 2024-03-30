@@ -1217,3 +1217,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.03.30-19.40.09:195][852]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2024.03.30-19.40.09:195][852]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2024.03.30-19.41.04:548][101]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.03.30-19.41.57:995][258]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.03.30-19.42.38:551][266]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
