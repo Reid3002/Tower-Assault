@@ -2893,3 +2893,325 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.01-19.38.06:803][660]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2024.04.01-19.38.51:515][509]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2024.04.01-19.40.00:711][707]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.41.04:970][890]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.42.07:325][450]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.42.25:680][263]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-19.42.25:911][263]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2024.04.01-19.42.27:350][309]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacterF0A18AF74A3F1E57E4D4A0B597F2EAE3.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-19.42.27:409][309]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-19.42.27:409][309]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-19.42.30:850][448]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.43.52:611][561]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.44.03:169][949]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.44.14:432][385]LogUObjectHash: Compacting FUObjectHashTables data took  12.17ms
+[2024.04.01-19.44.14:481][385]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonExampleMap_Auto2C041488147AAEC69BE22189A0AC85E38.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2024.04.01-19.44.14:484][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.155
+[2024.04.01-19.44.14:484][385]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.155
+[2024.04.01-19.44.42:432][494]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.01-19.44.43:066][505]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.01-19.45.09:108][558]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.46.06:013][109]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.46.59:701][968]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.47.34:704][972]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.48.14:927][930]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-19.48.15:170][930]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2024.04.01-19.48.16:417][956]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacter1AA68BCF44DBADAC0971538146387F57.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-19.48.16:466][956]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-19.48.16:466][956]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-19.48.17:294][994]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.01-19.48.17:306][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-19.48.17:307][994]PIE: New page: PIE session: FirstPersonExampleMap (1 abr. 2024 13:48:17)
+[2024.04.01-19.48.17:307][994]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-19.48.17:380][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073225s)
+[2024.04.01-19.48.17:384][994]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.04.01-19.48.17:387][994]LogPlayLevel: PIE: World Init took: (0.005757s)
+[2024.04.01-19.48.17:387][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.079588s)
+[2024.04.01-19.48.17:491][994]LogUObjectHash: Compacting FUObjectHashTables data took   9.60ms
+[2024.04.01-19.48.17:493][994]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-19.48.17:493][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.01-19.48.17:493][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-19.48.17:494][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-19.48.17:494][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-19.48.17:494][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-19.48.17:494][994]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.01-19.48.17:500][994]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.01-19.48.17:500][994]LogAudioMixer: Display: 1: FrontRight
+[2024.04.01-19.48.17:541][994]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2024.04.01-19.48.17:544][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-19.48.17:544][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-19.48.17:544][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-19.48.17:545][994]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.01-19.48.17:545][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.01-19.48.17:545][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.01-19.48.17:547][994]LogInit: FAudioDevice initialized.
+[2024.04.01-19.48.17:547][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.01-19.48.17:547][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.01-19.48.17:547][994]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonExampleMap'.
+[2024.04.01-19.48.17:601][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-19.48.17:601][994]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.01-19.48.17:610][994]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2024.04.01-16.48.17
+[2024.04.01-19.48.17:611][994]LogWorld: Bringing up level for play took: 0.006806
+[2024.04.01-19.48.17:611][994]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2024.04.01-19.48.17:635][994]PIE: Server logged in
+[2024.04.01-19.48.17:640][994]PIE: Play in editor total start time 0,337 seconds.
+[2024.04.01-19.48.27:661][170]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.49.09:840][955]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.50.16:381][223]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.50.33:046][539]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.51.02:777][100]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.51.48:775][968]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.51.57:005][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-19.51.57:005][120]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-19.51.57:005][120]LogSlate: Window 'Tower_Assault Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.04.01-19.51.57:044][120]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-19.51.57:046][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-19.51.57:075][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-19.51.57:086][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-19.51.57:202][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-19.51.57:205][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-19.51.57:206][120]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-19.51.57:234][120]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2024.04.01-19.51.57:307][121]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.04.01-19.52.17:028][ 33]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.53.23:614][213]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.54.15:167][ 98]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.55.06:673][371]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-19.55.06:893][371]LogUObjectHash: Compacting FUObjectHashTables data took   9.98ms
+[2024.04.01-19.55.08:453][435]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacterBECCCE1545F65D78BC4A63BB2B750C99.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-19.55.08:508][435]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-19.55.08:508][435]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-19.55.16:005][995]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.55.20:305][331]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.01-19.55.20:316][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-19.55.20:316][331]PIE: New page: PIE session: FirstPersonExampleMap (1 abr. 2024 13:55:20)
+[2024.04.01-19.55.20:317][331]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-19.55.20:347][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029614s)
+[2024.04.01-19.55.20:350][331]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.04.01-19.55.20:351][331]LogPlayLevel: PIE: World Init took: (0.004044s)
+[2024.04.01-19.55.20:351][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034253s)
+[2024.04.01-19.55.20:456][331]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2024.04.01-19.55.20:457][331]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.04.01-19.55.20:457][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-19.55.20:459][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-19.55.20:460][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-19.55.20:460][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-19.55.20:460][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.01-19.55.20:460][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-19.55.20:460][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.01-19.55.20:460][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-19.55.20:461][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-19.55.20:461][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-19.55.20:461][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-19.55.20:461][331]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.01-19.55.20:465][331]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.01-19.55.20:466][331]LogAudioMixer: Display: 1: FrontRight
+[2024.04.01-19.55.20:503][331]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2024.04.01-19.55.20:504][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-19.55.20:504][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-19.55.20:504][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-19.55.20:505][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.01-19.55.20:505][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.01-19.55.20:505][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.01-19.55.20:506][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.01-19.55.20:506][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.01-19.55.20:506][331]LogInit: FAudioDevice initialized.
+[2024.04.01-19.55.20:506][331]LogAudio: Display: Audio Device (ID: 25) registered with world 'FirstPersonExampleMap'.
+[2024.04.01-19.55.20:563][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-19.55.20:564][331]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.01-19.55.20:570][331]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2024.04.01-16.55.20
+[2024.04.01-19.55.20:571][331]LogWorld: Bringing up level for play took: 0.005627
+[2024.04.01-19.55.20:571][331]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2024.04.01-19.55.20:586][331]PIE: Server logged in
+[2024.04.01-19.55.20:593][331]PIE: Play in editor total start time 0,278 seconds.
+[2024.04.01-19.55.50:802][910]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=300.582 Y=1763.441 Z=274.402] for [FirstPersonProjectile_C]
+[2024.04.01-19.55.50:985][913]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=300.652 Y=1762.025 Z=282.059] for [FirstPersonProjectile_C]
+[2024.04.01-19.55.51:204][917]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=300.724 Y=1762.927 Z=280.841] for [FirstPersonProjectile_C]
+[2024.04.01-19.55.51:366][920]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=300.493 Y=1760.504 Z=282.819] for [FirstPersonProjectile_C]
+[2024.04.01-19.55.55:815][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=356.280 Y=1825.064 Z=260.843] for [FirstPersonProjectile_C]
+[2024.04.01-19.55.56:234][ 12]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=354.459 Y=1824.656 Z=260.762] for [FirstPersonProjectile_C]
+[2024.04.01-19.55.56:444][ 16]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=353.968 Y=1810.342 Z=264.559] for [FirstPersonProjectile_C]
+[2024.04.01-19.56.04:145][164]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1310.528 Y=-334.673 Z=411.281] for [FirstPersonProjectile_C]
+[2024.04.01-19.56.15:362][369]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.57.22:661][683]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.57.35:919][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-19.57.35:919][933]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-19.57.35:920][933]LogSlate: Window 'Tower_Assault Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.04.01-19.57.35:953][933]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-19.57.35:954][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-19.57.35:975][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-19.57.35:985][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-19.57.36:082][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-19.57.36:083][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-19.57.36:095][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-19.57.36:112][933]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2024.04.01-19.57.36:202][934]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.04.01-19.58.31:441][725]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-19.58.31:636][725]LogSlate: Took 0.011383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.04.01-19.58.58:130][224]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-19.58.58:382][224]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2024.04.01-19.59.22:658][629]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.00.13:514][456]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.01.23:871][128]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.02.21:781][840]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.03.31:981][ 71]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.04.31:168][159]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.05.28:357][123]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.05.34:768][520]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-20.05.35:029][520]LogUObjectHash: Compacting FUObjectHashTables data took  12.73ms
+[2024.04.01-20.06.36:248][440]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.07.48:413][160]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.08.56:568][862]LogUObjectHash: Compacting FUObjectHashTables data took  11.12ms
+[2024.04.01-20.08.56:612][862]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonExampleMap_Auto35E06BB6A4C7FE24B7884CEA5BC9ADD60.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2024.04.01-20.08.56:615][862]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.144
+[2024.04.01-20.08.56:615][862]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2024.04.01-20.08.56:615][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TowerAssault/Blueprints/FirstPersonCharacter] ([4] browsable assets)...
+[2024.04.01-20.08.56:669][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2024.04.01-20.08.56:709][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2024.04.01-20.08.56:709][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/TowerAssault/Blueprints/FirstPersonCharacter]
+[2024.04.01-20.08.56:880][862]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacter_Auto33A1B2D16482D3C702A553AA7C54D9183.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/Autosaves/Game/TowerAssault/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2024.04.01-20.08.56:883][862]LogFileHelpers: Auto-saving content packages took 0.268
+[2024.04.01-20.08.59:209][  7]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.09.38:350][ 20]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.10.10:278][105]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-20.10.10:513][105]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2024.04.01-20.10.12:108][154]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacter95576C64425FDB1E7B68309E3C186518.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-20.10.12:150][154]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-20.10.12:150][154]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-20.10.31:999][199]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.11.06:008][877]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-20.11.06:251][877]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2024.04.01-20.11.23:011][708]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-20.11.23:244][708]LogUObjectHash: Compacting FUObjectHashTables data took   8.66ms
+[2024.04.01-20.11.24:225][715]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacterCA2EDC684A2737482A353BBABBFB7AFA.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-20.11.24:274][715]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-20.11.24:274][715]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-20.11.29:039][947]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacterD4D167F14763208A14A65C99C7897CF8.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-20.11.29:085][947]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-20.11.29:085][947]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-20.11.29:736][975]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-20.11.29:978][975]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
+[2024.04.01-20.11.30:783][976]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.11.32:011][ 34]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.01-20.11.32:027][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-20.11.32:027][ 34]PIE: New page: PIE session: FirstPersonExampleMap (1 abr. 2024 14:11:32)
+[2024.04.01-20.11.32:028][ 34]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-20.11.32:069][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041383s)
+[2024.04.01-20.11.32:074][ 34]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.04.01-20.11.32:075][ 34]LogPlayLevel: PIE: World Init took: (0.004224s)
+[2024.04.01-20.11.32:075][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.047349s)
+[2024.04.01-20.11.32:171][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2024.04.01-20.11.32:173][ 34]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.04.01-20.11.32:173][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-20.11.32:173][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-20.11.32:173][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-20.11.32:173][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-20.11.32:173][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.01-20.11.32:173][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-20.11.32:174][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.01-20.11.32:174][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-20.11.32:174][ 34]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-20.11.32:174][ 34]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-20.11.32:174][ 34]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-20.11.32:174][ 34]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.01-20.11.32:180][ 34]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.01-20.11.32:180][ 34]LogAudioMixer: Display: 1: FrontRight
+[2024.04.01-20.11.32:230][ 34]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2024.04.01-20.11.32:231][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-20.11.32:231][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-20.11.32:231][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-20.11.32:231][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.01-20.11.32:232][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.01-20.11.32:232][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.01-20.11.32:234][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.01-20.11.32:234][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.01-20.11.32:234][ 34]LogInit: FAudioDevice initialized.
+[2024.04.01-20.11.32:234][ 34]LogAudio: Display: Audio Device (ID: 26) registered with world 'FirstPersonExampleMap'.
+[2024.04.01-20.11.32:280][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-20.11.32:281][ 34]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.01-20.11.32:292][ 34]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2024.04.01-17.11.32
+[2024.04.01-20.11.32:293][ 34]LogWorld: Bringing up level for play took: 0.010850
+[2024.04.01-20.11.32:293][ 34]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2024.04.01-20.11.32:307][ 34]PIE: Server logged in
+[2024.04.01-20.11.32:313][ 34]PIE: Play in editor total start time 0,287 seconds.
+[2024.04.01-20.12.22:892][998]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.12.42:611][344]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.13.31:998][242]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.14.36:332][455]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.15.44:271][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-20.15.44:271][791]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-20.15.44:272][791]LogSlate: Window 'Tower_Assault Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.04.01-20.15.44:289][791]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-20.15.44:290][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-20.15.44:311][791]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-20.15.44:321][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-20.15.44:432][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.01-20.15.44:433][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-20.15.44:434][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-20.15.44:466][791]LogUObjectHash: Compacting FUObjectHashTables data took  19.86ms
+[2024.04.01-20.15.44:534][792]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.04.01-20.15.46:293][878]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.01-20.15.46:304][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.01-20.15.46:305][878]PIE: New page: PIE session: FirstPersonExampleMap (1 abr. 2024 14:15:46)
+[2024.04.01-20.15.46:305][878]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-20.15.46:337][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032135s)
+[2024.04.01-20.15.46:340][878]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2024.04.01-20.15.46:341][878]LogPlayLevel: PIE: World Init took: (0.003673s)
+[2024.04.01-20.15.46:341][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036119s)
+[2024.04.01-20.15.46:444][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2024.04.01-20.15.46:445][878]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.01-20.15.46:445][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.01-20.15.46:445][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.01-20.15.46:446][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.01-20.15.46:446][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.01-20.15.46:446][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.01-20.15.46:446][878]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.01-20.15.46:451][878]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.01-20.15.46:451][878]LogAudioMixer: Display: 1: FrontRight
+[2024.04.01-20.15.46:501][878]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2024.04.01-20.15.46:501][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.01-20.15.46:502][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.01-20.15.46:502][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.01-20.15.46:502][878]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.01-20.15.46:502][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.01-20.15.46:502][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.01-20.15.46:504][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.01-20.15.46:504][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.01-20.15.46:504][878]LogInit: FAudioDevice initialized.
+[2024.04.01-20.15.46:504][878]LogAudio: Display: Audio Device (ID: 27) registered with world 'FirstPersonExampleMap'.
+[2024.04.01-20.15.46:565][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-20.15.46:566][878]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.04.01-20.15.46:573][878]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2024.04.01-17.15.46
+[2024.04.01-20.15.46:574][878]LogWorld: Bringing up level for play took: 0.007357
+[2024.04.01-20.15.46:574][878]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2024.04.01-20.15.46:590][878]PIE: Server logged in
+[2024.04.01-20.15.46:603][878]PIE: Play in editor total start time 0,3 seconds.
+[2024.04.01-20.16.01:045][150]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.16.34:935][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.16.36:403][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.01-20.16.36:403][819]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2024.04.01-20.16.36:405][819]LogSlate: Window 'Tower_Assault Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.04.01-20.16.36:431][819]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.01-20.16.36:432][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-20.16.36:446][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.01-20.16.36:458][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.01-20.16.36:577][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-20.16.36:580][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.01-20.16.36:612][819]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2024.04.01-20.16.36:685][820]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.04.01-20.16.38:792][913]BlueprintLog: New page: Compile FirstPersonCharacter
+[2024.04.01-20.16.39:015][913]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2024.04.01-20.16.40:262][933]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacter23F83A6C48AFEBE24EE871BD0E4F59AF.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
+[2024.04.01-20.16.40:320][933]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2024.04.01-20.16.40:320][933]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
