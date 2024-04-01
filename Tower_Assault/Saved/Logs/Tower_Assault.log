@@ -3215,3 +3215,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.01-20.16.40:262][933]LogSavePackage: Moving 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Saved/FirstPersonCharacter23F83A6C48AFEBE24EE871BD0E4F59AF.tmp' to 'D:/Usuarios/Nicolas/Escritorio/Tower-Assault/Tower_Assault/Content/TowerAssault/Blueprints/FirstPersonCharacter.uasset'
 [2024.04.01-20.16.40:320][933]AssetCheck: New page: Asset Save: FirstPersonCharacter
 [2024.04.01-20.16.40:320][933]LogContentValidation: Display: Validating Blueprint /Game/TowerAssault/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2024.04.01-20.17.42:230][259]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.17.56:412][301]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.18.38:789][427]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.19.36:971][599]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.19.50:932][640]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.01-20.21.05:392][860]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
